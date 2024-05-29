@@ -48,8 +48,7 @@ Essa abordagem prática e competitiva não só melhora o entendimento técnico d
 - Chave KCD
 - Kit Jumper Macho/Fêmea (ou fios equivalentes)
 - Kit Jumper Macho/Macho (ou fios equivalentes)
-- *Chassis
-O chassis pode ser montado com material à escolha do montador. No exemplo, usaremos MDF e disponibilizaremos o arquivo SVG para corte a laser.
+- *Chassis pode ser montado com material à escolha do montador. No exemplo, usaremos MDF e disponibilizaremos o arquivo SVG para corte a laser.
 
 #Ferramentas e Materiais Adicionais Necessários para Montagem
 - Fita isolante
