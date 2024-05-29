@@ -60,7 +60,7 @@ Essa abordagem prática e competitiva não só melhora o entendimento técnico d
 ## Esquema de Montagem
 
 
-<img src="" /> 
+<img src="https://github.com/linguanotto/RoboSumoArduinoUno/blob/Master/imagens/esquema%20eletrico.jpg" /> 
 
     
 → [Voltar ao topo](#topo)
