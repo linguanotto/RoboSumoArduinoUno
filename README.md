@@ -8,6 +8,7 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#Objetivos">Objetivos</a>  | 
+    <a href="#Pecas">Peças</a>  | 
 
 </p>    
 
@@ -31,6 +32,28 @@ Este projeto descreve a construção de um robô de sumô controlado via Bluetoo
 - **Criatividade**: Estimular a criatividade e a capacidade de resolução de problemas através do design e otimização do robô de sumô.
 
 Essa abordagem prática e competitiva não só melhora o entendimento técnico dos alunos, mas também motiva o aprendizado contínuo e o desenvolvimento de habilidades essenciais para futuras carreiras em ciência e engenharia.
+
+<span id="Pecas">
+
+## 📑 Peças Necessarias
+
+- Arduino UNO
+- Módulo Ponte H Dupla L298N 
+- Módulo Bluetooth HC-05
+- 2 Motores DC 3-6V com Caixa de Redução e Eixo Duplo
+- 2 Rodas 65MM para Motor de Redução
+- 2 Baterias Li-ion 18650 6800mAh 3.7V
+- Suporte para Bateria 18650
+- Chave KCD
+- Kit Jumper Macho/Fêmea (ou fios equivalentes)
+- Kit Jumper Macho/Macho (ou fios equivalentes)
+- *Chassis
+O chassis pode ser montado com material à escolha do montador. No exemplo, usaremos MDF e disponibilizaremos o arquivo SVG para corte a laser.
+
+#Ferramentas e Materiais Adicionais Necessários para Montagem
+- Fita isolante
+- Ferro de solda
+- Estanho
 
     
 → [Voltar ao topo](#topo)
