@@ -9,6 +9,7 @@
     <a href="#sobre">Sobre</a>  |  
     <a href="#Objetivos">Objetivos</a>  | 
     <a href="#Pecas">Peças</a>  | 
+    <a href="#Esquema">Esquema de Montagem</a>  | 
 
 </p>    
 
@@ -54,6 +55,13 @@ O chassis pode ser montado com material à escolha do montador. No exemplo, usar
 - Fita isolante
 - Ferro de solda
 - Estanho
+
+<span id="Esquema">
+
+## Esquema de Montagem
+
+
+<img src="" /> 
 
     
 → [Voltar ao topo](#topo)
